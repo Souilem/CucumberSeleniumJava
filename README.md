@@ -11,3 +11,6 @@ Features:
 
 - welcom_msg.feature
 
+
+the test repor is in the target/cucumber directory
+
